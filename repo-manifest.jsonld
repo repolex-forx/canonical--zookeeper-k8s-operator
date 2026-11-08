@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/zookeeper-k8s-operator/commit/b26927942784d419557cbf0fead13a85fd2768b6",
       "git:hexsha": "b26927942784d419557cbf0fead13a85fd2768b6",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/canonical/zookeeper-k8s-operator/commit/f19bc602f20af93bbd32a9fc7f1f63ff3efaf36e",

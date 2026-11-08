@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "zookeeper-k8s-operator",
+  "versions": [
+    {
+      "commit": "b26927942784d419557cbf0fead13a85fd2768b6",
+      "tag": "",
+      "parsed_at": "2026-11-08T16:08:34.701482+00:00"
+    }
+  ]
+}
